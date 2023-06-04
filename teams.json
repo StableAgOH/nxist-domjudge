@@ -1,0 +1,3369 @@
+[
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "1",
+        "icpc_id": "ICPC1",
+        "name": "1_1_\u6d59\u6c5f\u5de5\u55461",
+        "display_name": null,
+        "organization_id": "91",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "2",
+        "icpc_id": "SILKROAD1",
+        "name": "1_1_\u6d59\u6c5f\u5de5\u55461",
+        "display_name": null,
+        "organization_id": "869",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "3",
+        "icpc_id": "SILKROAD2",
+        "name": "2_2_\u6d59\u6c5f\u5de5\u55462",
+        "display_name": null,
+        "organization_id": "870",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "4",
+        "icpc_id": "SILKROAD3",
+        "name": "2_7_\u65b0\u5efa\u6587\u4ef6\u5939",
+        "display_name": null,
+        "organization_id": "871",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "5",
+        "icpc_id": "SILKROAD4",
+        "name": "1_5_\u4e0d\u8981\u517b\u4e24\u53ea\u732b",
+        "display_name": null,
+        "organization_id": "872",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "6",
+        "icpc_id": "SILKROAD5",
+        "name": "2_10_\u7528\u6e5b\u795e\u5341\u5e74\u5355\u8eab\u6362\u4e00\u5757\u94dc\u724c",
+        "display_name": null,
+        "organization_id": "873",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "7",
+        "icpc_id": "SILKROAD6",
+        "name": "1_2_\u9752\u6625DKYer\u4e0d\u4f1a\u68a6\u89c1ACM\u94c1\u724c",
+        "display_name": null,
+        "organization_id": "874",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "8",
+        "icpc_id": "SILKROAD7",
+        "name": "1_6_\u6211\u5728\u963f\u8428\u59c6\u535a\u91d1\u8fc8\u94f6\u604b\u94dc\u6253\u94c1\u7684\u5947\u5999\u751f\u6d3b",
+        "display_name": null,
+        "organization_id": "875",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "9",
+        "icpc_id": "SILKROAD8",
+        "name": "1_4_Jsu",
+        "display_name": null,
+        "organization_id": "876",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "10",
+        "icpc_id": "SILKROAD9",
+        "name": "3_4_\u6700\u540e\u7684\u5e0c\u671b",
+        "display_name": null,
+        "organization_id": "877",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "11",
+        "icpc_id": "SILKROAD10",
+        "name": "2_4_\u732a\u732a\u961f",
+        "display_name": null,
+        "organization_id": "878",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "12",
+        "icpc_id": "SILKROAD11",
+        "name": "1_7_\u6885\u82b1\u961f",
+        "display_name": null,
+        "organization_id": "879",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "13",
+        "icpc_id": "SILKROAD12",
+        "name": "1_10_\u556a\u55d2\u7830",
+        "display_name": null,
+        "organization_id": "880",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "14",
+        "icpc_id": "SILKROAD13",
+        "name": "2_5_\u6c6a\u6c6a\u961f\u8d77\u98de\u54af",
+        "display_name": null,
+        "organization_id": "881",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "15",
+        "icpc_id": "SILKROAD14",
+        "name": "1_8_\u7c89\u7ea2\u6bdb\u6bdb\u5154",
+        "display_name": null,
+        "organization_id": "882",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "16",
+        "icpc_id": "SILKROAD15",
+        "name": "2_1_\u4e00\u4e2a\u56fd\u4e09\u5e26\u4e24\u4e2a\u56fd\u4f18",
+        "display_name": null,
+        "organization_id": "883",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "17",
+        "icpc_id": "SILKROAD16",
+        "name": "2_3_\u7687\u5bb6\u6316\u7164\u4eba",
+        "display_name": null,
+        "organization_id": "884",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "18",
+        "icpc_id": "SILKROAD17",
+        "name": "1_9_\u4e8c\u8fdb\u5236\u7684\u98ce",
+        "display_name": null,
+        "organization_id": "885",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "19",
+        "icpc_id": "SILKROAD18",
+        "name": "3_2_\u6211\u60f3\u8d77\u4e2a\u961f\u540d\u6709\u4ec0\u4e48\u4e0d\u961f",
+        "display_name": null,
+        "organization_id": "886",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "20",
+        "icpc_id": "SILKROAD19",
+        "name": "1_3_\u6709\u9ed4\u771f\u82cf\u798f",
+        "display_name": null,
+        "organization_id": "887",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "21",
+        "icpc_id": "SILKROAD20",
+        "name": "2_8_\u6df1\u85cfbule\u961f",
+        "display_name": null,
+        "organization_id": "888",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "22",
+        "icpc_id": "SILKROAD21",
+        "name": "2_9_\u8f6c\u751f\u6210\u4e3a\u90a6\u5fb7\u516c\u4e3b\u5f53\u963f\u5c3c\u4e9a\u5c0f\u59d0\u7684\u72d7",
+        "display_name": null,
+        "organization_id": "889",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "23",
+        "icpc_id": "SILKROAD22",
+        "name": "3_1_DAYDAYDREAM",
+        "display_name": null,
+        "organization_id": "890",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "24",
+        "icpc_id": "SILKROAD23",
+        "name": "3_3_\u5609\u4eba\u4eec\u8c01\u61c2\u554a",
+        "display_name": null,
+        "organization_id": "891",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "25",
+        "icpc_id": "SILKROAD24",
+        "name": "2_6_\u6765\u65c5\u6e38\u7684\u9f99\u864e\u8c79",
+        "display_name": null,
+        "organization_id": "892",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "26",
+        "icpc_id": "SILKROAD25",
+        "name": "4_4_\u661f\u9645\u6218\u961f",
+        "display_name": null,
+        "organization_id": "893",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "27",
+        "icpc_id": "SILKROAD26",
+        "name": "3_5_\u4e09\u7f3a\u4e00",
+        "display_name": null,
+        "organization_id": "894",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "28",
+        "icpc_id": "SILKROAD27",
+        "name": "6_9_\u51b7\u9177\u65e0\u60c5\u7684\u4e09\u5341\u5ea6\u5634\u89d2",
+        "display_name": null,
+        "organization_id": "895",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "29",
+        "icpc_id": "SILKROAD28",
+        "name": "3_8_\u6811\u4e0b\u5408\u5e76",
+        "display_name": null,
+        "organization_id": "896",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "30",
+        "icpc_id": "SILKROAD29",
+        "name": "3_9_\u8def\u8fc7\u7684\uff0c\u6253\u5b8c\u6bd4\u8d5b\u5c31\u8d70",
+        "display_name": null,
+        "organization_id": "897",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "31",
+        "icpc_id": "SILKROAD30",
+        "name": "3_10_\u7ffb\u6597\u82b1\u56ed",
+        "display_name": null,
+        "organization_id": "898",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "32",
+        "icpc_id": "SILKROAD31",
+        "name": "3_7_\u68a6\u60f3\u96f6\u6781\u9650",
+        "display_name": null,
+        "organization_id": "899",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "33",
+        "icpc_id": "SILKROAD32",
+        "name": "4_2_\u4ee3\u7801\u9b54\u6cd5\u5e08",
+        "display_name": null,
+        "organization_id": "900",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "34",
+        "icpc_id": "SILKROAD33",
+        "name": "4_3_\u54c8\u54c8\u6c6a",
+        "display_name": null,
+        "organization_id": "901",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "35",
+        "icpc_id": "SILKROAD34",
+        "name": "5_6_\u54c8\u54c8\u7a81",
+        "display_name": null,
+        "organization_id": "902",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "36",
+        "icpc_id": "SILKROAD35",
+        "name": "4_10_\u54c8\u54c8\u7761",
+        "display_name": null,
+        "organization_id": "903",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "37",
+        "icpc_id": "SILKROAD36",
+        "name": "4_5_\u6c5f\u6d7721",
+        "display_name": null,
+        "organization_id": "904",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "38",
+        "icpc_id": "SILKROAD37",
+        "name": "4_1_\u9a6c\u548c\u7f8a\u961f",
+        "display_name": null,
+        "organization_id": "905",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "39",
+        "icpc_id": "SILKROAD38",
+        "name": "4_7_\u7231\u5764\u961f",
+        "display_name": null,
+        "organization_id": "906",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "40",
+        "icpc_id": "SILKROAD39",
+        "name": "5_8_\u591a\u591a\u5192\u9669\u961f",
+        "display_name": null,
+        "organization_id": "907",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "41",
+        "icpc_id": "SILKROAD40",
+        "name": "6_3_\u6d41\u661f\u5760\u843d\u961f",
+        "display_name": null,
+        "organization_id": "908",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "42",
+        "icpc_id": "SILKROAD41",
+        "name": "5_1_\u5148\u75af\u5c0f\u961f",
+        "display_name": null,
+        "organization_id": "909",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "43",
+        "icpc_id": "SILKROAD42",
+        "name": "5_3_AC\u4e0d\u8fc7\u4e0d\u5403\u996d\u961f",
+        "display_name": null,
+        "organization_id": "910",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "44",
+        "icpc_id": "SILKROAD43",
+        "name": "5_4_\u4e1c\u5317\u5f80\u4e8b",
+        "display_name": null,
+        "organization_id": "911",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "45",
+        "icpc_id": "SILKROAD44",
+        "name": "5_5_\u534e\u4e3a\u539f\u795e5G",
+        "display_name": null,
+        "organization_id": "912",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "46",
+        "icpc_id": "SILKROAD45",
+        "name": "5_2_AC\u5c31\u662f\u771f\u7406",
+        "display_name": null,
+        "organization_id": "913",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "47",
+        "icpc_id": "SILKROAD46",
+        "name": "5_7_\u5341\u7f50\u78a7\u96ea",
+        "display_name": null,
+        "organization_id": "914",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "48",
+        "icpc_id": "SILKROAD47",
+        "name": "4_6_\u4e00\u65e5\u770b\u5c3d\u957f\u5b89\u82b1",
+        "display_name": null,
+        "organization_id": "915",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "49",
+        "icpc_id": "SILKROAD48",
+        "name": "6_7_\u53c2\u5bbf\u4e00",
+        "display_name": null,
+        "organization_id": "916",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "50",
+        "icpc_id": "SILKROAD49",
+        "name": "5_10_AC\u81ea\u52a8\u673a",
+        "display_name": null,
+        "organization_id": "917",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "51",
+        "icpc_id": "SILKROAD50",
+        "name": "6_1_AC\u5371\u673a",
+        "display_name": null,
+        "organization_id": "918",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "52",
+        "icpc_id": "SILKROAD51",
+        "name": "6_2_\u6709\u79cd\u5f00\u706b\u63a7\u96f7\u8fbe\u7167\u6211",
+        "display_name": null,
+        "organization_id": "919",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "53",
+        "icpc_id": "SILKROAD52",
+        "name": "6_4_\u6240\u4ee5\u7231\u4f1a\u6d88\u5931\u5bf9\u4e0d\u961f",
+        "display_name": null,
+        "organization_id": "920",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "54",
+        "icpc_id": "SILKROAD53",
+        "name": "6_5_\u6c38\u8fdc\u7684\u96be\u9898",
+        "display_name": null,
+        "organization_id": "921",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "55",
+        "icpc_id": "SILKROAD54",
+        "name": "6_6_\u961f\u540d\u8fd9\u6b21\u6ca1\u60f3\u597d",
+        "display_name": null,
+        "organization_id": "922",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "56",
+        "icpc_id": "SILKROAD55",
+        "name": "4_9_\u95fd\u5357\u5e08\u83031",
+        "display_name": null,
+        "organization_id": "923",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "57",
+        "icpc_id": "SILKROAD56",
+        "name": "6_8_\u95fd\u5357\u5e08\u83032",
+        "display_name": null,
+        "organization_id": "924",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "58",
+        "icpc_id": "SILKROAD57",
+        "name": "3_6_\u6cc9\u5dde\u5e08\u8303",
+        "display_name": null,
+        "organization_id": "925",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "59",
+        "icpc_id": "SILKROAD58",
+        "name": "5_9_\u5e7f\u4e1c\u4e1c\u8f6f",
+        "display_name": null,
+        "organization_id": "926",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "60",
+        "icpc_id": "SILKROAD59",
+        "name": "7_1_\u6700\u540e",
+        "display_name": null,
+        "organization_id": "927",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "77",
+        "icpc_id": "SILKROAD76",
+        "name": "8_8_no pains no prize",
+        "display_name": null,
+        "organization_id": "944",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "80",
+        "icpc_id": "SILKROAD79",
+        "name": "4_8_\u4e01\u771f",
+        "display_name": null,
+        "organization_id": "947",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "2"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "81",
+        "icpc_id": "SILKROAD80",
+        "name": "6_10_\u75af\u72c2\u88ab\u632f\u5200\u961f",
+        "display_name": null,
+        "organization_id": "948",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "82",
+        "icpc_id": "SILKROAD81",
+        "name": "\u4e0d\u77e5\u9053",
+        "display_name": null,
+        "organization_id": "949",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "83",
+        "icpc_id": "SILKROAD82",
+        "name": "\u4e00\u4f53",
+        "display_name": null,
+        "organization_id": "950",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "84",
+        "icpc_id": "SILKROAD83",
+        "name": "\u4e09\u4e2a\u867e\u5934\u877b",
+        "display_name": null,
+        "organization_id": "951",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "85",
+        "icpc_id": "SILKROAD84",
+        "name": "\u91d1\u5b57\u5854",
+        "display_name": null,
+        "organization_id": "952",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "86",
+        "icpc_id": "SILKROAD85",
+        "name": "\u9ad8\u575a\u679c",
+        "display_name": null,
+        "organization_id": "953",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "87",
+        "icpc_id": "SILKROAD86",
+        "name": "\u5730\u5e73\u7ebf",
+        "display_name": null,
+        "organization_id": "954",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "88",
+        "icpc_id": "SILKROAD87",
+        "name": "\u5929\u7ebf\u5b9d\u5b9d\u961f",
+        "display_name": null,
+        "organization_id": "955",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "89",
+        "icpc_id": "SILKROAD88",
+        "name": "\u590f\u65e5\u70ed\u6b4c1",
+        "display_name": null,
+        "organization_id": "956",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "90",
+        "icpc_id": "SILKROAD89",
+        "name": "\u5bf9\u4e0d\u961f",
+        "display_name": null,
+        "organization_id": "957",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "91",
+        "icpc_id": "SILKROAD90",
+        "name": "\u598d\u598d\u56fd\u5b9d1\u961f",
+        "display_name": null,
+        "organization_id": "958",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "92",
+        "icpc_id": "SILKROAD91",
+        "name": "\u5c82\u6709\u6b64\u7406\u961f",
+        "display_name": null,
+        "organization_id": "959",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "93",
+        "icpc_id": "SILKROAD92",
+        "name": "\u6c42\u751f\u4e4b\u8def",
+        "display_name": null,
+        "organization_id": "960",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "94",
+        "icpc_id": "SILKROAD93",
+        "name": "\u554a\u5bf9\u5bf9\u961f",
+        "display_name": null,
+        "organization_id": "961",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "95",
+        "icpc_id": "SILKROAD94",
+        "name": "\u68a6\u4e4b\u961f",
+        "display_name": null,
+        "organization_id": "962",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "96",
+        "icpc_id": "SILKROAD95",
+        "name": "\u4e09\u5bf9",
+        "display_name": null,
+        "organization_id": "963",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "97",
+        "icpc_id": "SILKROAD96",
+        "name": "\u8499\u7684\u5168\u961f",
+        "display_name": null,
+        "organization_id": "964",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "98",
+        "icpc_id": "SILKROAD97",
+        "name": "\u6211\u4e0d\u4f1a",
+        "display_name": null,
+        "organization_id": "965",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "99",
+        "icpc_id": "SILKROAD98",
+        "name": "\u6c99\u70ec\u59d0\u59d0\u96c5\u6c99\u897f",
+        "display_name": null,
+        "organization_id": "966",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "100",
+        "icpc_id": "SILKROAD99",
+        "name": "\u6c99\u70ec\u59d0\u59d0\u96c5\u6c99\u4e1c",
+        "display_name": null,
+        "organization_id": "967",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "101",
+        "icpc_id": "SILKROAD100",
+        "name": "\u79e6\u6c4922-1",
+        "display_name": null,
+        "organization_id": "968",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "102",
+        "icpc_id": "SILKROAD101",
+        "name": "\u79e6\u6c4922-2",
+        "display_name": null,
+        "organization_id": "969",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "103",
+        "icpc_id": "SILKROAD102",
+        "name": "\u79e6\u6c49012",
+        "display_name": null,
+        "organization_id": "970",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "104",
+        "icpc_id": "SILKROAD103",
+        "name": "\u79e6\u6c497",
+        "display_name": null,
+        "organization_id": "971",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "105",
+        "icpc_id": "SILKROAD104",
+        "name": "\u554a\u5bf9\u5bf9\u961f",
+        "display_name": null,
+        "organization_id": "972",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "106",
+        "icpc_id": "SILKROAD105",
+        "name": "Yep",
+        "display_name": null,
+        "organization_id": "973",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "107",
+        "icpc_id": "SILKROAD106",
+        "name": "\u6211\u4e0d\u662f\u5395\u795e",
+        "display_name": null,
+        "organization_id": "974",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "108",
+        "icpc_id": "SILKROAD107",
+        "name": "\u6253\u94c1\u8fd8\u987b\u81ea\u8eab\u786c",
+        "display_name": null,
+        "organization_id": "975",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "109",
+        "icpc_id": "SILKROAD108",
+        "name": "lhs",
+        "display_name": null,
+        "organization_id": "976",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "110",
+        "icpc_id": "SILKROAD109",
+        "name": "\u5f69\u8679\u6355\u624b",
+        "display_name": null,
+        "organization_id": "977",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "111",
+        "icpc_id": "SILKROAD110",
+        "name": "\u5de8\u795e\u6218\u51fb\u961f",
+        "display_name": null,
+        "organization_id": "978",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "112",
+        "icpc_id": "SILKROAD111",
+        "name": "\u963f\u5bf9\u5bf9\u961f",
+        "display_name": null,
+        "organization_id": "979",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "113",
+        "icpc_id": "SILKROAD112",
+        "name": "\u4e09\u5624\u6218\u5415\u5e03",
+        "display_name": null,
+        "organization_id": "980",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "114",
+        "icpc_id": "SILKROAD113",
+        "name": "\u4e09\u53ea\u732b",
+        "display_name": null,
+        "organization_id": "981",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "115",
+        "icpc_id": "SILKROAD114",
+        "name": "\u7532\u4e59\u4e19",
+        "display_name": null,
+        "organization_id": "982",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "116",
+        "icpc_id": "SILKROAD115",
+        "name": "\u8d85\u65f6\u6c38\u8fdc\u7684\u795e",
+        "display_name": null,
+        "organization_id": "983",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "117",
+        "icpc_id": "SILKROAD116",
+        "name": "\u738b\u724c\u5c0f\u4e11",
+        "display_name": null,
+        "organization_id": "984",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "118",
+        "icpc_id": "SILKROAD117",
+        "name": "\u91cd\u751f\u4e4b\u6211\u662f\u849f\u84bb",
+        "display_name": null,
+        "organization_id": "985",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "119",
+        "icpc_id": "SILKROAD118",
+        "name": "\u80fd\u9700\u8981\u871c\u8702",
+        "display_name": null,
+        "organization_id": "986",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "120",
+        "icpc_id": "SILKROAD119",
+        "name": "\u62ff\u4e0d\u4e86\u91d1\uff0c\u4e0d\u51c6\u745f\u745f",
+        "display_name": null,
+        "organization_id": "987",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "121",
+        "icpc_id": "SILKROAD120",
+        "name": "\u529e\u516c\u5ba4365",
+        "display_name": null,
+        "organization_id": "988",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "122",
+        "icpc_id": "SILKROAD121",
+        "name": "\u725b\u9b54\u916c\u5bbe",
+        "display_name": null,
+        "organization_id": "989",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "123",
+        "icpc_id": "SILKROAD122",
+        "name": "\u4e0e\u5fc3\u7231\u7684wa\u540c\u884c\u81f3\u4e16\u754c\u5c3d\u5934*",
+        "display_name": null,
+        "organization_id": "990",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "124",
+        "icpc_id": "SILKROAD123",
+        "name": "\u518d\u6253\u4e00\u573a\u5c31\u9000\u5f79",
+        "display_name": null,
+        "organization_id": "991",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "125",
+        "icpc_id": "SILKROAD124",
+        "name": "\u9cb2\u9cb2",
+        "display_name": null,
+        "organization_id": "992",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "126",
+        "icpc_id": "SILKROAD125",
+        "name": "\u6cf0\u88e4\u8fa3",
+        "display_name": null,
+        "organization_id": "993",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "127",
+        "icpc_id": "SILKROAD126",
+        "name": "\u5ba0\u7269\u6d3e\u5bf9",
+        "display_name": null,
+        "organization_id": "994",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "128",
+        "icpc_id": "SILKROAD127",
+        "name": "\u732a\u732a\u4fa0",
+        "display_name": null,
+        "organization_id": "995",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "129",
+        "icpc_id": "SILKROAD128",
+        "name": "\u8d85\u7ea7\u98de\u4fa0",
+        "display_name": null,
+        "organization_id": "996",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "130",
+        "icpc_id": "SILKROAD129",
+        "name": "\u505a\u5c31\u5bf9\u4e86",
+        "display_name": null,
+        "organization_id": "997",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "131",
+        "icpc_id": "SILKROAD130",
+        "name": "\u523a\u5ba2",
+        "display_name": null,
+        "organization_id": "998",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "132",
+        "icpc_id": "SILKROAD131",
+        "name": "\u8def\u4eba",
+        "display_name": null,
+        "organization_id": "999",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "133",
+        "icpc_id": "SILKROAD132",
+        "name": "\u65b0\u624b",
+        "display_name": null,
+        "organization_id": "1000",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "134",
+        "icpc_id": "SILKROAD133",
+        "name": "\u5b64\u7535\u5b50\u961f",
+        "display_name": null,
+        "organization_id": "1001",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "135",
+        "icpc_id": "SILKROAD134",
+        "name": "\u5e7b\u5f71",
+        "display_name": null,
+        "organization_id": "1002",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "136",
+        "icpc_id": "SILKROAD135",
+        "name": "\u5e03\u7bb1\u6f06\u94ed\u961f",
+        "display_name": null,
+        "organization_id": "1003",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "137",
+        "icpc_id": "SILKROAD136",
+        "name": "QQ\u7cd6\u961f",
+        "display_name": null,
+        "organization_id": "1004",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "138",
+        "icpc_id": "SILKROAD137",
+        "name": "\u65b0\u5347",
+        "display_name": null,
+        "organization_id": "1005",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "139",
+        "icpc_id": "SILKROAD138",
+        "name": "\u96be",
+        "display_name": null,
+        "organization_id": "1006",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "140",
+        "icpc_id": "SILKROAD139",
+        "name": "Nine Chapters Calculating Tree",
+        "display_name": null,
+        "organization_id": "1007",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "141",
+        "icpc_id": "SILKROAD140",
+        "name": "Excavator",
+        "display_name": null,
+        "organization_id": "1008",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "142",
+        "icpc_id": "SILKROAD141",
+        "name": "Seeing is believing team",
+        "display_name": null,
+        "organization_id": "1009",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "143",
+        "icpc_id": "SILKROAD142",
+        "name": "WA Monster Akcepted",
+        "display_name": null,
+        "organization_id": "1010",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "144",
+        "icpc_id": "SILKROAD143",
+        "name": "\u7ffb\u6597\u82b1\u56ed",
+        "display_name": null,
+        "organization_id": "1011",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "145",
+        "icpc_id": "SILKROAD144",
+        "name": "\u5c0f\u4e11s",
+        "display_name": null,
+        "organization_id": "1012",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "146",
+        "icpc_id": "SILKROAD145",
+        "name": "\u75be\u98ce\u4f34\u6211\u968f\u884c",
+        "display_name": null,
+        "organization_id": "1013",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "147",
+        "icpc_id": "SILKROAD146",
+        "name": "\u4e4c\u8499\u5927\u8c61",
+        "display_name": null,
+        "organization_id": "1014",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "148",
+        "icpc_id": "SILKROAD147",
+        "name": "\u7f16\u7a0b\u7334\u5b50",
+        "display_name": null,
+        "organization_id": "1015",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "149",
+        "icpc_id": "SILKROAD148",
+        "name": "\u7edd\u60c5\u5e72\u9505\u9c7c",
+        "display_name": null,
+        "organization_id": "1016",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "150",
+        "icpc_id": "SILKROAD149",
+        "name": "\u9177\u9177\u5c0f\u72d7\u548c\u88e4\u88e4\u5c0f\u732a",
+        "display_name": null,
+        "organization_id": "1017",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "151",
+        "icpc_id": "SILKROAD150",
+        "name": "\u62ef\u6551\u80e1\u56fe\u56fe",
+        "display_name": null,
+        "organization_id": "1018",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "152",
+        "icpc_id": "SILKROAD151",
+        "name": "\u4e0d\u77e5\u9053",
+        "display_name": null,
+        "organization_id": "1019",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "153",
+        "icpc_id": "SILKROAD152",
+        "name": "\u78b1\u57fa\u4e92\u8865\u914d\u961f",
+        "display_name": null,
+        "organization_id": "1020",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "154",
+        "icpc_id": "SILKROAD153",
+        "name": "\u82cf\u683c\u62c9\u6ca1\u6709\u5e95",
+        "display_name": null,
+        "organization_id": "1021",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "155",
+        "icpc_id": "SILKROAD154",
+        "name": "\u5bb6\u4eba\u4eec\u8c01\u61c2\u554a",
+        "display_name": null,
+        "organization_id": "1022",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "156",
+        "icpc_id": "SILKROAD155",
+        "name": "\u4e0d\u5982\u5403\u8336\u53bb",
+        "display_name": null,
+        "organization_id": "1023",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "157",
+        "icpc_id": "SILKROAD156",
+        "name": "\u9762\u5411\u6837\u4f8b\u7a0b\u5e8f\u8bbe\u8ba1",
+        "display_name": null,
+        "organization_id": "1024",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "158",
+        "icpc_id": "SILKROAD157",
+        "name": "\u5f69\u8679",
+        "display_name": null,
+        "organization_id": "1025",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "159",
+        "icpc_id": "SILKROAD158",
+        "name": "\u6cf0\u9177\u5566",
+        "display_name": null,
+        "organization_id": "1026",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "160",
+        "icpc_id": "SILKROAD159",
+        "name": "\u4e09Hao\u5b66\u751f",
+        "display_name": null,
+        "organization_id": "1027",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "161",
+        "icpc_id": "SILKROAD160",
+        "name": "\u84dd\u8272\u7a7a\u95f4",
+        "display_name": null,
+        "organization_id": "1028",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "162",
+        "icpc_id": "SILKROAD161",
+        "name": "\u8ba9\u6211\u518dA\u4e00\u9053\u9898",
+        "display_name": null,
+        "organization_id": "1029",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "163",
+        "icpc_id": "SILKROAD162",
+        "name": "\u6478\u9c7c",
+        "display_name": null,
+        "organization_id": "1030",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "164",
+        "icpc_id": "SILKROAD163",
+        "name": "\u6211\u5ba3\u5e03\u4ee5\u4e0a\u6210\u7ee9\u65e0\u6548",
+        "display_name": null,
+        "organization_id": "1031",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "165",
+        "icpc_id": "SILKROAD164",
+        "name": "DokiDoki Club",
+        "display_name": null,
+        "organization_id": "1032",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "166",
+        "icpc_id": "SILKROAD165",
+        "name": "1234",
+        "display_name": null,
+        "organization_id": "1033",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "167",
+        "icpc_id": "SILKROAD166",
+        "name": "MDG2",
+        "display_name": null,
+        "organization_id": "1034",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "168",
+        "icpc_id": "SILKROAD167",
+        "name": "Jin Keqiang",
+        "display_name": null,
+        "organization_id": "1035",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "169",
+        "icpc_id": "SILKROAD168",
+        "name": "\u5496\u55b1\u68d2",
+        "display_name": null,
+        "organization_id": "1036",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "170",
+        "icpc_id": "SILKROAD169",
+        "name": "\u5317\u65b9\u6c11\u65cf\u5927\u5b66\u5f20\u5fb7\u5b81",
+        "display_name": null,
+        "organization_id": "1037",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "171",
+        "icpc_id": "SILKROAD170",
+        "name": "AI Quant",
+        "display_name": null,
+        "organization_id": "1038",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "172",
+        "icpc_id": "SILKROAD171",
+        "name": "youyou2",
+        "display_name": null,
+        "organization_id": "1039",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "173",
+        "icpc_id": "SILKROAD172",
+        "name": "\u738b\u8005\u5f52\u6765",
+        "display_name": null,
+        "organization_id": "1040",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "174",
+        "icpc_id": "SILKROAD173",
+        "name": "\u575a\u6301",
+        "display_name": null,
+        "organization_id": "1041",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "175",
+        "icpc_id": "SILKROAD174",
+        "name": "\u5bf9\u5bf9\u5bf9",
+        "display_name": null,
+        "organization_id": "1042",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "176",
+        "icpc_id": "SILKROAD175",
+        "name": "TS\u203b\u203b1",
+        "display_name": null,
+        "organization_id": "1043",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "177",
+        "icpc_id": "SILKROAD176",
+        "name": "\u4e7e\u5386\u4e00\u961f",
+        "display_name": null,
+        "organization_id": "1044",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "178",
+        "icpc_id": "SILKROAD177",
+        "name": "\u4e7e\u5386\u4e8c\u961f",
+        "display_name": null,
+        "organization_id": "1045",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "179",
+        "icpc_id": "SILKROAD178",
+        "name": "\u4e7e\u5386\u4e09\u961f",
+        "display_name": null,
+        "organization_id": "1046",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "180",
+        "icpc_id": "SILKROAD179",
+        "name": "\u4e7e\u5386\u56db\u961f",
+        "display_name": null,
+        "organization_id": "1047",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "181",
+        "icpc_id": "SILKROAD180",
+        "name": "\u4e7e\u5386\u4e94\u961f",
+        "display_name": null,
+        "organization_id": "1048",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "182",
+        "icpc_id": "SILKROAD181",
+        "name": "\u4e7e\u5386\u516d\u961f",
+        "display_name": null,
+        "organization_id": "1049",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "183",
+        "icpc_id": "SILKROAD182",
+        "name": "\u4e7e\u5386\u4e03\u961f",
+        "display_name": null,
+        "organization_id": "1050",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "184",
+        "icpc_id": "SILKROAD183",
+        "name": "\u4e7e\u5386\u516b\u961f",
+        "display_name": null,
+        "organization_id": "1051",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "185",
+        "icpc_id": "SILKROAD184",
+        "name": "\u4e7e\u5386\u4e5d\u961f",
+        "display_name": null,
+        "organization_id": "1052",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "186",
+        "icpc_id": "SILKROAD185",
+        "name": "\u4e7e\u5386\u5341\u961f",
+        "display_name": null,
+        "organization_id": "1053",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "187",
+        "icpc_id": "SILKROAD186",
+        "name": "\u4e7e\u5386\u5341\u4e00\u961f",
+        "display_name": null,
+        "organization_id": "1054",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "188",
+        "icpc_id": "SILKROAD187",
+        "name": "\u4e7e\u5386\u5341\u4e8c\u961f",
+        "display_name": null,
+        "organization_id": "1055",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "189",
+        "icpc_id": "SILKROAD188",
+        "name": "\u4e7e\u5386\u5341\u4e09\u961f",
+        "display_name": null,
+        "organization_id": "1056",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "190",
+        "icpc_id": "SILKROAD189",
+        "name": "\u4e7e\u5386\u5341\u56db\u961f",
+        "display_name": null,
+        "organization_id": "1057",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "191",
+        "icpc_id": "SILKROAD190",
+        "name": "\u4e7e\u5386\u5341\u4e94\u961f",
+        "display_name": null,
+        "organization_id": "1058",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "192",
+        "icpc_id": "SILKROAD191",
+        "name": "\u4e7e\u5386\u5341\u516d\u961f",
+        "display_name": null,
+        "organization_id": "1059",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "193",
+        "icpc_id": "SILKROAD192",
+        "name": "\u4e7e\u5386\u5341\u4e03\u961f",
+        "display_name": null,
+        "organization_id": "1060",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "194",
+        "icpc_id": "SILKROAD193",
+        "name": "\u4e7e\u5386\u5341\u516b\u961f",
+        "display_name": null,
+        "organization_id": "1061",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "195",
+        "icpc_id": "SILKROAD194",
+        "name": "\u4e7e\u5386\u5341\u4e5d\u961f",
+        "display_name": null,
+        "organization_id": "1062",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "196",
+        "icpc_id": "SILKROAD195",
+        "name": "\u4e7e\u5386\u4e8c\u5341\u961f",
+        "display_name": null,
+        "organization_id": "1063",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "197",
+        "icpc_id": "SILKROAD196",
+        "name": "\u4e7e\u5386\u4e8c\u5341\u4e00\u961f",
+        "display_name": null,
+        "organization_id": "1064",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "198",
+        "icpc_id": "SILKROAD197",
+        "name": "\u4e7e\u5386\u4e8c\u5341\u4e8c\u961f",
+        "display_name": null,
+        "organization_id": "1065",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "199",
+        "icpc_id": "SILKROAD198",
+        "name": "\u4e7e\u5386\u4e8c\u5341\u4e09\u961f",
+        "display_name": null,
+        "organization_id": "1066",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "200",
+        "icpc_id": "SILKROAD199",
+        "name": "\u4e7e\u5386\u4e8c\u5341\u56db\u961f",
+        "display_name": null,
+        "organization_id": "1067",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "201",
+        "icpc_id": "SILKROAD200",
+        "name": "\u89c2\u661f\u8005",
+        "display_name": null,
+        "organization_id": "1068",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "202",
+        "icpc_id": "SILKROAD201",
+        "name": "\u82b1\u91cc\u80e1\u54e8",
+        "display_name": null,
+        "organization_id": "1069",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "203",
+        "icpc_id": "SILKROAD202",
+        "name": "\u4ebf\u68a6\u661f\u76df",
+        "display_name": null,
+        "organization_id": "1070",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "204",
+        "icpc_id": "SILKROAD203",
+        "name": "Smart\u7231\u521b",
+        "display_name": null,
+        "organization_id": "1071",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "205",
+        "icpc_id": "SILKROAD204",
+        "name": "\u968f\u7f18\u62ff\u94c1",
+        "display_name": null,
+        "organization_id": "1072",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "206",
+        "icpc_id": "SILKROAD205",
+        "name": "\u8fd0\u6c14\u9009\u624b",
+        "display_name": null,
+        "organization_id": "1073",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "207",
+        "icpc_id": "SILKROAD206",
+        "name": "\u4e09\u4eba\u56e2\u4f19",
+        "display_name": null,
+        "organization_id": "1074",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "208",
+        "icpc_id": "SILKROAD207",
+        "name": "\u6253\u4e0d\u9e1f\u5c31\u590f\u5575",
+        "display_name": null,
+        "organization_id": "1075",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "209",
+        "icpc_id": "SILKROAD208",
+        "name": "\u4f60\u8bf4\u7684\u90fd\u5bf9",
+        "display_name": null,
+        "organization_id": "1076",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "210",
+        "icpc_id": "SILKROAD209",
+        "name": "\u53d1\u9645\u7ebf\u4fdd\u536b\u8005",
+        "display_name": null,
+        "organization_id": "1077",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "211",
+        "icpc_id": "SILKROAD210",
+        "name": "\u590f\u65e5\u6e38",
+        "display_name": null,
+        "organization_id": "1078",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "212",
+        "icpc_id": "SILKROAD211",
+        "name": "\u9519\u8bef 404",
+        "display_name": null,
+        "organization_id": "1079",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "213",
+        "icpc_id": "SILKROAD212",
+        "name": "\u5f00\u5fc3\u83dc\u9e1f",
+        "display_name": null,
+        "organization_id": "1080",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "214",
+        "icpc_id": "SILKROAD213",
+        "name": "\u9890\u795e",
+        "display_name": null,
+        "organization_id": "1081",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "215",
+        "icpc_id": "SILKROAD214",
+        "name": "\u521d\u51fa\u8305\u5e90",
+        "display_name": null,
+        "organization_id": "1082",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "216",
+        "icpc_id": "SILKROAD215",
+        "name": "\u65b0\u8fdb\u6709\u4e09",
+        "display_name": null,
+        "organization_id": "1083",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "217",
+        "icpc_id": "SILKROAD216",
+        "name": "\u4e00\u952e\u91cd\u5f00",
+        "display_name": null,
+        "organization_id": "1084",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "218",
+        "icpc_id": "SILKROAD217",
+        "name": "\u5c0f\u4e38\u728a\u5b50",
+        "display_name": null,
+        "organization_id": "1085",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "219",
+        "icpc_id": "SILKROAD218",
+        "name": "\u554a\u5bf9\u5bf9\u5bf9",
+        "display_name": null,
+        "organization_id": "1086",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "220",
+        "icpc_id": "SILKROAD219",
+        "name": "\u4e8c\u8272\u7ea2\u9ed1\u6811",
+        "display_name": null,
+        "organization_id": "1087",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "221",
+        "icpc_id": "SILKROAD220",
+        "name": "\u8ba4\u771f\u4e13\u6ce8\u6c89\u7740\u51b7\u9759",
+        "display_name": null,
+        "organization_id": "1088",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "222",
+        "icpc_id": "SILKROAD221",
+        "name": "\u865a\u4e8c\u6b21\u57df",
+        "display_name": null,
+        "organization_id": "1089",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "223",
+        "icpc_id": "SILKROAD222",
+        "name": "\u6211\u7684\u7f5a\u65f6\u5728\u4f60\u4e4b\u4e0a",
+        "display_name": null,
+        "organization_id": "1090",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "224",
+        "icpc_id": "SILKROAD223",
+        "name": "\u67d0\u79d1\u5b66\u7684\u8d85C\u8bed\u8a00",
+        "display_name": null,
+        "organization_id": "1091",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "225",
+        "icpc_id": "SILKROAD224",
+        "name": "\u6c6a\u6c6a\u961f\u7761\u5927\u89c9",
+        "display_name": null,
+        "organization_id": "1092",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "226",
+        "icpc_id": "SILKROAD225",
+        "name": "\u6211\u6c38\u8fdc\u559c\u6b22\u4fde\u6210\u6797",
+        "display_name": null,
+        "organization_id": "1093",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "227",
+        "icpc_id": "SILKROAD226",
+        "name": "\u65b0\u4e16\u7eaa\u798f\u97f3\u6218\u58eb",
+        "display_name": null,
+        "organization_id": "1094",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "228",
+        "icpc_id": "SILKROAD227",
+        "name": "\u4ee3\u7801\u5931\u63a7\u56e2\u961f",
+        "display_name": null,
+        "organization_id": "1095",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "229",
+        "icpc_id": "SILKROAD228",
+        "name": "\u9752\u77b3\u732b",
+        "display_name": null,
+        "organization_id": "1096",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "230",
+        "icpc_id": "SILKROAD229",
+        "name": "\u4e09\u53ea\u83dc\u9e21",
+        "display_name": null,
+        "organization_id": "1097",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "231",
+        "icpc_id": "SILKROAD230",
+        "name": "\u5927\u5175\u745e\u6069",
+        "display_name": null,
+        "organization_id": "1098",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "232",
+        "icpc_id": "SILKROAD231",
+        "name": "\u7f8e\u5f0f\u9ed1\u5496\u5561",
+        "display_name": null,
+        "organization_id": "1099",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "233",
+        "icpc_id": "SILKROAD232",
+        "name": "\u793e\u4f1a\u4e3b\u4e49\u65b0\u9752\u5e74",
+        "display_name": null,
+        "organization_id": "1100",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "234",
+        "icpc_id": "SILKROAD233",
+        "name": "\u53d9\u5229\u4e9a\u608d\u532a",
+        "display_name": null,
+        "organization_id": "1101",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "235",
+        "icpc_id": "SILKROAD234",
+        "name": "\u6c6a\u4e86\u4e2a\u6c6a",
+        "display_name": null,
+        "organization_id": "1102",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "236",
+        "icpc_id": "SILKROAD235",
+        "name": "\u6ca1\u4eba\u56de\u6211",
+        "display_name": null,
+        "organization_id": "1103",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "237",
+        "icpc_id": "SILKROAD236",
+        "name": "\u83dc\u9e1f\u4e00\u53f7",
+        "display_name": null,
+        "organization_id": "1104",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "238",
+        "icpc_id": "SILKROAD237",
+        "name": "\u84b2\u516c\u82f1\u8ba1\u5212",
+        "display_name": null,
+        "organization_id": "1105",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "239",
+        "icpc_id": "SILKROAD238",
+        "name": "\u4ec0\u4e48\u961f\u961f",
+        "display_name": null,
+        "organization_id": "1106",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "240",
+        "icpc_id": "SILKROAD239",
+        "name": "\u8c6a\u6770\u534e\u4eba",
+        "display_name": null,
+        "organization_id": "1107",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "241",
+        "icpc_id": "SILKROAD240",
+        "name": "\u592a\u7a7a\u6c6a\u6c6a\u961f",
+        "display_name": null,
+        "organization_id": "1108",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "242",
+        "icpc_id": "SILKROAD241",
+        "name": "\u6709\u5173\u90e8\u95e8\u961f",
+        "display_name": null,
+        "organization_id": "1109",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "243",
+        "icpc_id": "SILKROAD242",
+        "name": "\u57fa\u5c3c\u592a\u7f8e\u961f",
+        "display_name": null,
+        "organization_id": "1110",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "244",
+        "icpc_id": "SILKROAD243",
+        "name": "\u4e00\u9c7c\u4e09\u5403\u961f",
+        "display_name": null,
+        "organization_id": "1111",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "245",
+        "icpc_id": "SILKROAD244",
+        "name": "\u65e0\u8a00\u4ee5\u961f",
+        "display_name": null,
+        "organization_id": "1112",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "246",
+        "icpc_id": "SILKROAD245",
+        "name": "\u8fc7\u4e00\u4e2a\u662f\u4e00\u4e2a",
+        "display_name": null,
+        "organization_id": "1113",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "247",
+        "icpc_id": "SILKROAD246",
+        "name": "\u6960\u94dc",
+        "display_name": null,
+        "organization_id": "1114",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "248",
+        "icpc_id": "SILKROAD247",
+        "name": "\u5bf9NM\u5bf9",
+        "display_name": null,
+        "organization_id": "1115",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "249",
+        "icpc_id": "SILKROAD248",
+        "name": "\u6d51\u6c34\u6478\u9c7c",
+        "display_name": null,
+        "organization_id": "1116",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "250",
+        "icpc_id": "SILKROAD249",
+        "name": "\u6211\u7684\u5144\u5f1f\u53eb\u6f58\u51e4",
+        "display_name": null,
+        "organization_id": "1117",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "251",
+        "icpc_id": "SILKROAD250",
+        "name": "\u51b2\u51b2\u961f",
+        "display_name": null,
+        "organization_id": "1118",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "252",
+        "icpc_id": "SILKROAD251",
+        "name": "Wings",
+        "display_name": null,
+        "organization_id": "1119",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "253",
+        "icpc_id": "SILKROAD252",
+        "name": "Clownfish",
+        "display_name": null,
+        "organization_id": "1120",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "254",
+        "icpc_id": "SILKROAD253",
+        "name": "\u7ef4\u4fee\u5de5\u961f",
+        "display_name": null,
+        "organization_id": "1121",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "255",
+        "icpc_id": "SILKROAD254",
+        "name": "\u5b87\u5b99\u732b\u732b\u961f",
+        "display_name": null,
+        "organization_id": "1122",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "256",
+        "icpc_id": "SILKROAD255",
+        "name": "\u897f\u6797\u6700\u68d2",
+        "display_name": null,
+        "organization_id": "1123",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "257",
+        "icpc_id": "SILKROAD256",
+        "name": "\u94f6\u6cb3\u62a4\u536b\u961f",
+        "display_name": null,
+        "organization_id": "1124",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "258",
+        "icpc_id": "SILKROAD257",
+        "name": "\u6218\u7801\u6218\u961f",
+        "display_name": null,
+        "organization_id": "1125",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "3"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "259",
+        "icpc_id": "SILKROAD258",
+        "name": "\u6b7b\u6d77\u6548\u5e94",
+        "display_name": null,
+        "organization_id": "1126",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "4"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "61",
+        "icpc_id": "SILKROAD60",
+        "name": "7_2_\u6478\u9c7c\u961f",
+        "display_name": null,
+        "organization_id": "928",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "4"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "62",
+        "icpc_id": "SILKROAD61",
+        "name": "7_3_BD_001",
+        "display_name": null,
+        "organization_id": "929",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "4"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "63",
+        "icpc_id": "SILKROAD62",
+        "name": "7_4_BD_002",
+        "display_name": null,
+        "organization_id": "930",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "4"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "64",
+        "icpc_id": "SILKROAD63",
+        "name": "7_5_BD_003",
+        "display_name": null,
+        "organization_id": "931",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "4"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "65",
+        "icpc_id": "SILKROAD64",
+        "name": "7_6_BD_004",
+        "display_name": null,
+        "organization_id": "932",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "4"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "66",
+        "icpc_id": "SILKROAD65",
+        "name": "7_7_\u65e9\u70b9\u4f11\u606f",
+        "display_name": null,
+        "organization_id": "933",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "4"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "67",
+        "icpc_id": "SILKROAD66",
+        "name": "7_8_\u554a\u5bf9\u5bf9\u961f",
+        "display_name": null,
+        "organization_id": "934",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "4"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "68",
+        "icpc_id": "SILKROAD67",
+        "name": "7_9_\u5c0f\u571f\u961f",
+        "display_name": null,
+        "organization_id": "935",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "4"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "69",
+        "icpc_id": "SILKROAD68",
+        "name": "7_10_\u4e54\u6865\u961f",
+        "display_name": null,
+        "organization_id": "936",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "4"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "70",
+        "icpc_id": "SILKROAD69",
+        "name": "8_1_BD_005",
+        "display_name": null,
+        "organization_id": "937",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "4"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "71",
+        "icpc_id": "SILKROAD70",
+        "name": "8_2_\u5b88\u62a4\u8005\u961f",
+        "display_name": null,
+        "organization_id": "938",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "4"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "72",
+        "icpc_id": "SILKROAD71",
+        "name": "8_3_\u4e09\u9762\u695a\u9e3d",
+        "display_name": null,
+        "organization_id": "939",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "4"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "73",
+        "icpc_id": "SILKROAD72",
+        "name": "8_4_\u4e0e\u88c1\u5224\u7ad9\u4e00\u961f",
+        "display_name": null,
+        "organization_id": "940",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "4"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "74",
+        "icpc_id": "SILKROAD73",
+        "name": "8_5_\u5168\u961f",
+        "display_name": null,
+        "organization_id": "941",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "4"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "75",
+        "icpc_id": "SILKROAD74",
+        "name": "8_6_\u6398\u91d1\u961f",
+        "display_name": null,
+        "organization_id": "942",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "4"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "76",
+        "icpc_id": "SILKROAD75",
+        "name": "8_7_\u5764\u5764\u961f",
+        "display_name": null,
+        "organization_id": "943",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "4"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "78",
+        "icpc_id": "SILKROAD77",
+        "name": "8_9_\u6253\u661f2",
+        "display_name": null,
+        "organization_id": "945",
+        "members": null
+    },
+    {
+        "group_ids": [
+            "4"
+        ],
+        "affiliation": "**",
+        "nationality": "**",
+        "id": "79",
+        "icpc_id": "SILKROAD78",
+        "name": "8_10_\u6253\u661f3",
+        "display_name": null,
+        "organization_id": "946",
+        "members": null
+    }
+]
